@@ -1,0 +1,36 @@
+---
+layout: post
+title: Screw Finding Your Passion
+---
+
+Remember back when you were a kid? You would just do things. You never thought to yourself, “What are the relative merits of learning baseball versus football?” You just ran around the playground and played baseball and football. You built sand castles and played tag and asked silly questions and looked for bugs and dug up grass and pretended you were a sewer monster.
+
+Nobody told you to do it, you just did it. You were led merely by your curiosity and excitement.
+
+And the beautiful thing was, if you hated baseball, you just stopped playing it. There was no guilt involved. There was no arguing or debate. You either liked it or you didn’t.
+
+And if you loved looking for bugs, you just did that. There was no second-level analysis of, “Well, is looking for bugs really what I should be doing with my time as a child? Nobody else wants to look for bugs, does that mean there’s something wrong with me? How will looking for bugs affect my future prospects?”
+
+There was no bullshit. If you liked something, you just did it.
+
+Today, I received approximately the 11,504th email this year from a person telling me that they don’t know what to do with their life. And like all of the others, this person asked me if I had any ideas of what they could do, where they could start, where to “find their passion.”
+
+And of course, I didn’t respond. Why? Because I have no fucking clue. If you don’t have any idea what to do with yourself, what makes you think some jackass with a website would? I’m a writer, not a fortune teller.
+
+But more importantly, what I want to say to these people is this: that’s the whole point — “not knowing” is the whole fucking point. Life is all about not knowing, and then doing something anyway. All of life is like this. All of it. And it’s not going to get any easier just because you found out you love your job cleaning septic tanks or you scored a dream gig writing indie movies.
+
+The common complaint among a lot of these people is that they need to “find their passion.”
+
+I call bullshit. You already found your passion, you’re just ignoring it. Seriously, you’re awake 16 hours a day, what the fuck do you do with your time? You’re doing something, obviously. You’re talking about something. There’s some topic or activity or idea that dominates a significant amount of your free time, your conversations, your web browsing, and it dominates them without you consciously pursuing it or looking for it.
+
+It’s right there in front of you, you’re just avoiding it. For whatever reason, you’re avoiding it. You’re telling yourself, “Oh well, yeah, I love comic books but that doesn’t count. You can’t make money with comic books.”
+
+Fuck you, have you even tried?
+
+The problem is not a lack of passion for something. The problem is productivity. The problem is perception. The problem is acceptance.
+
+The problem is the, “Oh, well that’s just not a realistic option,” or “Mom and Dad would kill me if I tried to do that, they say I should be a doctor,” or “That’s crazy, you can’t buy a BMW with the money you make doing that.”
+
+The problem isn’t passion. It’s never passion.
+
+It’s priorities.

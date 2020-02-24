@@ -1,6 +1,6 @@
 > March, 2016: If you're on an old version of Jekyll Now and run into a) build warnings or b) syntax highlighting issues caused by [Jekyll 3 and GitHub Pages updates](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0), just :sparkles:[update your _config.yml](https://github.com/barryclark/jekyll-now/pull/445/files):sparkles: and you'll be set!
 
-# Jekyll Now
+# BootKill
 
 **Jekyll** is a static site generator that's perfect for GitHub hosted blogs ([Jekyll Repository](https://github.com/jekyll/jekyll))
 
@@ -18,7 +18,7 @@ In a few minutes you'll be set up with a minimal, responsive blog like the one b
 
 ## Quick Start
 
-### Step 1) Fork Jekyll Now to your User Repository
+### Step 1) Fork BootKill to your User Repository
 
 Fork this repo, then rename the repository to yourgithubusername.github.io.
 
